@@ -20,7 +20,7 @@ To complete this project, you need to follow the instructions in the [notebook](
 
 
 ## Conclusios
-The model have reached to **Training loss** of 0.065, and **Validation loss** of 0.152.
+The model has reached to **Training loss** of 0.065 and a **Validation loss** of 0.152.
 
 Finally, using the test data for prediction, it appears that the model reaches a pretty high accuracy. Also, at the first of model predictions, it shows excellent performance of predicting the actual data, or almost perfect. But after that, it seems the model doesn't catch the full correlation and can't predict much well. One potential solution is to feed the model with more data to have a better sense of the correlation and learn more thoughtfully.
 
